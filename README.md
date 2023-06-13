@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Deepraj Pagare</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Gayatri Jadhav</h1>
+<h3 align="center">A passionate Java Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatri1904&label=Profile%20views&color=0ED573&style=flat" alt="gayatri1904" /> </p>
 
