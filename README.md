@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatri1904&label=Profile%20views&color=0ED573&style=flat" alt="gayatri1904" /> </p>
 
-- 🔭 I’m currently working on [Event-Management-Website](https://github.com/gayatri1904/EventManager)
+- 🔭 I’m currently working on [Handicraft Website using React JS](https://github.com/gayatri1904/EventManager)
 
 - 🌱 I’m currently learning **React JS, Node JS**
 
