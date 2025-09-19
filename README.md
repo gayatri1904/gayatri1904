@@ -3,15 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatri1904&label=Profile%20views&color=0ED573&style=flat" alt="gayatri1904" /> </p>
 
-- 🔭 I’m currently working on [Handicraft Website using React JS](https://github.com/gayatri1904/EventManager)
-
-- 🌱 I’m currently learning **React JS, Node JS**
-
-- 💬 Ask me about **HTML, CSS, Java, Java EE, Javascript, Hibernate, Spring MVC, PHP, SQL**
-
-- 📫 How to reach me **gayatrijadhav1904@gmail.com**
-
-- ⚡ Fun fact **Have a great sense of humour**
+💻 Software Engineer | Full Stack Developer
+⚡ Building scalable web apps with Java, Spring Boot, React, Node.js, and SQL/NoSQL
+🌐 Passionate about clean code, system design, and problem-solving
+🚀 Exploring cloud, microservices, and DevOps for modern development
+📚 Lifelong learner | Open-source contributor | Tech enthusiast
+📫 Reach me at: gayatrijadhav1519@gmail.com | https://gayatri-jadhav-portfolio.netlify.app
 
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=gayatri1904" alt="gayatri1904" /></a> </p>
 
